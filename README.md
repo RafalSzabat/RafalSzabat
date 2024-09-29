@@ -21,7 +21,7 @@ Data Science: Inference and Modeling**
 
 - 📫 How to reach me: **rafalszabat2@gmail.com**
 
-- ⚡ Fun fact **I am highly focused person, with exceptional hunger for new knowledge in programming and mathematics. In summary: I am a bit crazy 🤪**
+- ⚡ Fun fact: **I am highly focused person, with exceptional hunger for new knowledge in programming and mathematics. In summary: I am a bit crazy 🤪**
 
 
 <p align="left">
