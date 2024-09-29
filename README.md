@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my mathematics and programming skills.**
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning: 
 **Python MOOC 2024 University of Helsinki,
 Harvard CS50 Python, 
 Hardvard Maths: 
