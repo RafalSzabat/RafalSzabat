@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalszabat" alt="rafalszabat" /></a> </p>
 
-- 🔭 I’m currently working on **developing my programming skills.**
+- 🔭 I’m currently working on **developing my mathematics and programming skills.**
 
 - 🌱 I’m currently learning 
 **Python MOOC 2024 University of Helsinki,
