@@ -7,16 +7,26 @@
 
 - 🔭 I’m currently working on **developing my mathematics and programming skills.**
 
-- 🌱 I’m currently learning:  
-**Python MOOC 2024 University of Helsinki,** **Harvard CS50 Python,**
-  
-**Harvard Maths:**  
-**Statistical Inference and Modeling for High-throughput Experiments,**  
-**Introduction to Linear Models and Matrix Algebra,**  
-**Principles, Statistical and Computational Tools for Reproducible Data Science,**
-  
-**Data Science: Probability,**  
-**Data Science: Inference and Modeling**
+ 
+<div align="center">
+  <strong>🌱 I’m currently learning:</strong><br><br>
+
+  <strong>- Python MOOC 2024 University of Helsinki,</strong><br>
+  <strong>- Harvard CS50 Python,</strong><br>
+
+  <strong>Harvard Maths:</strong><br>
+
+  <strong>- Statistical Inference and Modeling for High-throughput Experiments,</strong><br>
+  <strong>- Introduction to Linear Models and Matrix Algebra,</strong><br>
+  <strong>- Principles, Statistical and Computational Tools for Reproducible Data Science,</strong><br><br>
+
+  <strong>Data Science:</strong><br>
+
+  <strong>- Probability,</strong><br>
+  <strong>- Inference and Modeling</strong><br><br>
+</div>
+
+
 
 
 - 👯 I’m looking to collaborate on **python and AI projects.**
