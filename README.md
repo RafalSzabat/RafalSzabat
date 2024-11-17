@@ -18,7 +18,7 @@
 
   <strong>- Statistical Inference and Modeling for High-throughput Experiments,</strong><br>
   <strong>- Introduction to Linear Models and Matrix Algebra,</strong><br>
-  <strong>- Principles, Statistical and Computational Tools for Reproducible Data Science,</strong><br><br>
+  <strong>- Principles, Statistical and Computational Tools for Reproducible Data Science,</strong><br>
 
   <strong>Data Science:</strong><br>
 
