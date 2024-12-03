@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rafal Szabat</h1>
-<h3 align="center">A passionate Python developer from Poland.</h3>
+<h3 align="center">A passionate software developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalszabat&label=Profile%20views&color=0e75b6&style=flat" alt="rafalszabat" /> </p>
 
